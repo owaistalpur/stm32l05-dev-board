@@ -1,11 +1,2 @@
 # stm32l05-dev-board
-blinking-led-pcb/
-├── README.md
-├── project.kicad_pcb
-├── project.sch
-├── gerber/
-│   ├── top_layer.gbr
-│   └── bottom_layer.gbr
-├── images/
-│   └── pcb_preview.png
-└── LICENSE
+![image](https://github.com/user-attachments/assets/6d71b7cc-482c-49d6-b06e-0a9f850aecfd)
